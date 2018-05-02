@@ -1,0 +1,311 @@
+header > button {
+
+    border-radius: 20px !important;
+
+    background-color:#e13507 !important;
+
+}
+
+
+
+
+
+header {
+
+    margin: 30px;
+
+}
+
+
+
+nav {
+
+
+
+    background-color: #00754D;
+
+   
+
+}
+
+
+
+nav a {
+
+    font-size: 1.2em;
+
+    font-weight: 300;
+
+    color: white;
+
+}
+
+
+
+nav a:hover { /* tipos de enlace: link, visited, hover y active*/
+
+    color: yellow;
+
+}
+
+
+
+.titulo {
+
+    margin-top: 30px;
+
+    margin-bottom: 15px;
+
+}
+
+.titulo > h1 {
+
+    color: #00754D;
+
+    text-align: center;
+
+}
+
+.card-group {
+
+    margin-left: 100px;
+
+    margin-right: 100px;
+
+    margin-top: 20px;
+
+    margin-bottom: 20px;
+
+}
+
+.card-body {
+
+     text-align: center;
+
+}
+
+
+
+.card-title {
+
+    color: #005e3e;
+
+    text-align: center;
+
+}
+
+.card-body > button {
+
+    color: #005e3e;
+
+    font-weight: bold;
+
+    border-radius: 30px;
+
+    background-color: white;
+
+    border: 1px solid grey;
+
+}
+
+
+
+.card-body > button:hover {
+
+    background-color: gray; 
+
+}
+
+
+
+#formulario .input-group button {
+
+    border-top-right-radius: 20px;
+
+    border-bottom-right-radius: 20px;
+
+    background-color: #00754d;
+
+    border-color: white;
+
+}
+
+
+
+#formulario input {
+
+    border-top-left-radius: 20px;
+
+    border-bottom-left-radius: 20px;
+
+
+
+}
+
+
+
+#formulario  > p:first-child {
+
+    margin-bottom: 100px;
+
+}
+
+
+
+#formulario >h2 {
+
+    text-align: center;
+
+}
+
+
+
+#anuncios .col {
+
+    color: white;
+
+    text-align: center;
+
+    vertical-align: middle;
+
+    padding-left:  100px;
+
+    padding-right: 100px;
+
+    padding-top: 50px;
+
+    padding-bottom: 50px;
+
+}
+
+
+
+
+
+#anuncios .col:first-child {
+
+    background-color: #218050;
+
+}
+
+
+
+#anuncios .col:last-child {
+
+    background-color:  #17633D;
+
+}
+
+
+
+#anuncios .col p {
+
+    margin-top: 30px;
+
+}
+
+
+
+#ofertas-empleo > button {
+
+    color: #005e3e;
+
+    font-weight: bold;
+
+    border-radius: 30px;
+
+    background-color: white;
+
+    border: 1px solid lightgray;
+
+}
+
+
+
+#ofertas-empleo > button:hover{
+
+    background-color:#00754D;
+
+    color:white;
+
+}
+
+
+
+#ofertas-empleo {
+
+    margin-top: 100px;
+
+    margin-bottom: 100px;
+
+}
+
+
+
+#logo-footer {
+
+    margin-top: 30px;
+
+    margin-bottom: 30px;
+
+}
+
+
+
+footer .row:first-child {
+
+    background-color:  #00754D;
+
+    color: white;
+
+    padding: 50px;
+
+}
+
+
+
+footer  ul {
+
+    list-style-type: none;
+
+    padding-left:0px;
+
+}
+
+
+
+footer .row:first-child p i {
+
+    font-size:xx-large;
+
+    padding-right: 10px;
+
+}
+
+
+
+footer .row:last-child ul li {
+
+    display: inline;
+
+    font-size: smaller;
+
+    margin-right: 10px;
+
+}
+
+
+
+footer .row:last-child .col-md-5:first-child {
+   padding-left: 50px;
+    font-size: smaller;
+    text-align: left;
+}
+
+footer .row:last-child .col-md-7:last-child {
+    padding-right: 50px;
+    text-align: right
+} 
+footer .row:last-child {
+    padding-top: 10px;
+}
